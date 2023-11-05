@@ -1,0 +1,455 @@
+date,start time,end time,college,code,course,no,location,venue
+16-nov-23,900,1200,cssthe,nhct100,"critical thinking, logic and problem solving",191,main campus,kwang lim
+16-nov-23,900,1200,cbplg,nhct100,"critical thinking, logic and problem solving (accounting & management)",85,main campus,ol
+16-nov-23,900,1200,chans,nhct100,"critical thinking, logic and problem solving (med lab/ bhsm)",72,main campus,cbst
+16-nov-23,900,1200,cbplg,nhct100,"critical thinking, logic and problem solving (hr/pam)",22,main campus,fotsr
+16-nov-23,900,1200,chans,nhct100,"critical thinking, logic and problem solving (agric/agrib/environ)",61,main campus,fotsr
+16-nov-23,900,1200,ceas,nhct100,"critical thinking, logic and problem solving (comp science)",50,main campus,iplg1/2
+16-nov-23,900,1200,ceas,nhct100,"critical thinking, logic and problem solving (soft eng/cis)",50,main campus,f20
+16-nov-23,900,1200,cssthe,nhsw204,introduction to social work with individuals and families,80,main campus,f38
+16-nov-23,900,1200,cssthe,nhsw204,introduction to social work with individuals and families,50,main campus,ocl
+16-nov-23,900,1200,cssthe,nhsw204,introduction to social work with individuals and families,22,main campus,g36
+16-nov-23,900,1200,all,nhcs101,communication skills i,10,main campus,g36
+16-nov-23,900,1200,cbplg,nbcs102,business communication,1,main campus,g36
+16-nov-23,900,1200,all,nhit100,introduction to information technology,25,main campus,ict lab
+16-nov-23,900,1200,chans,nhct100,"critical thinking, logic and problem solving (bsn harare)",20,harare centre,harare
+16-nov-23,1400,1700,cssthe,nhfr111,french for beginners i,148,main campus,kwang lim
+16-nov-23,1400,1700,sol,nhfr111,french for beginners i,48,main campus,kwang lim
+16-nov-23,1400,1700,ceas,nhfr111,french for beginners i,88,main campus,ol
+16-nov-23,1400,1700,chans,nhfr111,french for beginners i (except bhsm),82,main campus,fotsr
+16-nov-23,1400,1700,cbplg,nhfr111,french for beginners i (except economics and pam),70,main campus,cbst
+16-nov-23,1400,1700,cbplg,nhfr111,french for beginners i (economics and pam),16,main campus,ocl
+16-nov-23,1400,1700,chans,nhfr111,french for beginners i (bhsm),5,main campus,ocl
+16-nov-23,1400,1700,cbplg,nhsl111,english as a second language i,20,main campus,ocl
+16-nov-23,1400,1700,ceas,nhsl111,english as a second language i,12,main campus,ocl
+16-nov-23,1400,1700,cssthe,nhsl111,english as a second language i,37,main campus,f38
+16-nov-23,1400,1700,chans,nhsl111,english as a second language i,42,main campus,f38
+16-nov-23,1400,1700,cssthe,nhpo111,portuguese for beginners i,15,main campus,f20
+16-nov-23,1400,1700,ceas,nhpo111,portuguese for beginners i,6,main campus,f20
+16-nov-23,1400,1700,cbplg,nhpo111,portuguese for beginners i,6,main campus,f20
+16-nov-23,1400,1700,chans,nhpo111,portuguese for beginners i,13,main campus,f20
+16-nov-23,1400,1700,cssthe,nhpo112,portuguese for beginners ii,2,main campus,g11
+16-nov-23,1400,1700,cssthe,nhfr112,french for beginners ii,7,main campus,g11
+16-nov-23,1400,1700,ceas,nhfr112,french for beginners ii,1,main campus,g11
+16-nov-23,1400,1700,chans,nhfr112,french for beginners ii,1,main campus,g11
+16-nov-23,1400,1700,cbplg,nhfr112,french for beginners ii,1,main campus,g11
+16-nov-23,1400,1700,cssthe,nhir223 ,african authors and politics,20,main campus,g11
+16-nov-23,1400,1700,chans,nhfr111,french for beginners i (bsn - harare),20,harare campus,
+17-nov-23,900,1200,cssthe,nmip100,introduction to intellectual property,191,main campus,kwang lim
+17-nov-23,900,1200,cbplg,nmip100,introduction to intellectual property (accounting & management),85,main campus,ol
+17-nov-23,900,1200,chans,nmip100,introduction to intellectual property (med lab/ bhsm),72,main campus,cbst
+17-nov-23,900,1200,cbplg,nmip100,introduction to intellectual property (hr/pam),22,main campus,fotsr
+17-nov-23,900,1200,chans,nmip100,introduction to intellectual property (agric/agrib/environ),61,main campus,fotsr
+17-nov-23,900,1200,ceas,nmip100,introduction to intellectual property  (comp science),50,main campus,iplg1/2
+17-nov-23,900,1200,ceas,nhct100,introduction to intellectual property (soft eng/cis),50,main campus,f20
+17-nov-23,900,1200,cssthe,nhsw415,helping children with special needs,80,main campus,f38/ocl
+17-nov-23,900,1200,cssthe,nhsw415,helping children with special needs,22,main campus,ocl
+17-nov-23,900,1200,cssthe,nhir222 ,evolution of african diplomacy and practice,10,main campus,ocl
+17-nov-23,900,1200,cbplg,nhac100,african studies and culture,16,main campus,ocl
+17-nov-23,900,1200,ceas,nhac100,african studies and culture,2,main campus,ocl
+17-nov-23,900,1200,cssthe,nhac100,african studies and culture,1,main campus,ocl
+17-nov-23,900,1200,chans,nhac100,african studies and culture,2,main campus,ocl
+17-nov-23,900,1200,chans,nmip104,introduction to intellectual property (bsn harare),20,harare centre,lecture room
+17-nov-23,1400,1700,cbplg,ntev200,ethics and christian values (cbplg),85,main campus,kwang lim
+17-nov-23,1400,1700,chans,ntev200,ethics and christian values (chans),90,main campus,kwang lim
+17-nov-23,1400,1700,cssthe,ntev200,ethics and christian values (cssthe),68,main campus,cbst
+17-nov-23,1400,1700,sol,nllb 101,introduction to law                                       ,49,main campus,iplg 1/2
+17-nov-23,1400,1700,cbplg,nmms301/nmpm203,research methods and report writing,90,main campus,ol
+17-nov-23,1400,1700,cbplg,nmms301/nmpm203,research methods and report writing,26,main campus,g11
+17-nov-23,1400,1700,ceas,nmms301,research methods and report writing,60,main campus,fotsr
+17-nov-23,1400,1700,chans,nsha200,health services organisations,12,main campus,fotsr
+17-nov-23,1400,1700,chans,nsha200,health services organisations,45,main campus,f20
+17-nov-23,1400,1700,cssthe,nhps140,introduction to psychology,80,main campus,f38/ocl
+17-nov-23,1400,1700,cssthe,nhps140,introduction to psychology,26,main campus,ocl
+17-nov-23,1400,1700,cbplg,nhps140,introduction to psychology,12,main campus,ocl
+17-nov-23,1400,1700,chans,nhps140,introduction to psychology,18,main campus,ocl
+17-nov-23,1400,1700,chans,nsns307,nursing foundations (bsn harare),20,harare centre,lecture room
+17-nov-23,1400,1700,chans,ntev200,ethics and christian values (social work hre),1,harare centre,lecture room
+20-nov-23,900,1200,chans,nsls203,haematology practical,47,main campus,dhslab
+20-nov-23,900,1200,sol,nllb107,communication & information technology,49,main campus,f20
+20-nov-23,900,1200,cssthe,ntpt306,church administration,15,main campus,cbst
+20-nov-23,900,1200,cssthe,nhir421,law and politics,56,main campus,cbst
+20-nov-23,900,1200,cssthe,nhir212,displacement and conflict in africa,51,main campus,ol
+20-nov-23,900,1200,ceas,ncis309,information systems audit and control,18,main campus,ol
+20-nov-23,900,1200,cssthe,nhsw416,psychiatric social work,80,main campus,f38/ocl
+20-nov-23,900,1200,cssthe,nhsw416,psychiatric social work,12,main campus,ocl
+20-nov-23,900,1200,cssthe,ntbs308,prophets i,39,main campus,ocl
+20-nov-23,900,1200,cbplg,nmac208,audit skills,38,main campus,iplg1/2
+20-nov-23,900,1200,cssthe,nmac208,audit skills,4,main campus,iplg1/2
+20-nov-23,900,1200,chans,nsns323,human anatomy,1,main campus,iplg1/2
+20-nov-23,900,1200,cbplg,nmms101,maths for business i,101,main campus,kwang lim
+20-nov-23,900,1200,ceas,nmms101,maths for business i,26,main campus,kwang lim
+20-nov-23,900,1200,ceas,ncsc201,discrete mathematics,59,main campus,kwang lim
+20-nov-23,900,1200,cbplg,nppg504, environmental policy and peace building,5,main campus,kwang lim
+20-nov-23,900,1200,chans,nsls300,laboratory management and administration,60,main campus,fotsr
+20-nov-23,900,1200,cssthe,ntcs609,hiv and aids pandemic and society,8,main campus,fotsr
+20-nov-23,900,1200,chans,nsns323,human anatomy,19,harare centre,lecture room
+20-nov-23,900,1200,chans,nsns423,"mother, newborn & child health",14,harare centre,lecture room
+20-nov-23,900,1200,chans,nsns315,community health nursing and health promotion ,5,harare centre,lecture room
+20-nov-23,1400,1700,cssthe,nhsw206,introduction to social work with communities,142,main campus,kwang lim
+20-nov-23,1400,1700,sol,nllb102,african legal justice systems,49,main campus,kwang lim
+20-nov-23,1400,1700,cbplg,nmms202,quantitative analysis i,77,main campus,fotsr
+20-nov-23,1400,1700,cssthe,nmms202,quantitative analysis i,4,main campus,fotsr
+20-nov-23,1400,1700,cbplg,nmac309,financial management,44,main campus,f20
+20-nov-23,1400,1700,cbplg,nmec102,principles of economics ll,2,main campus,f20
+20-nov-23,1400,1700,chans,naec102,communication skills in agriculture and natural resources,42,main campus,ocl
+20-nov-23,1400,1700,cssthe,ntpt572,short-term counselling in the parish,4,main campus,ocl
+20-nov-23,1400,1700,cssthe,nhir214,political economy of north-south relations,48,main campus,iplg1/2
+20-nov-23,1400,1700,cssthe,nhps427,group dynamics and human relations,5,main campus,ol
+20-nov-23,1400,1700,cssthe,nhsw421,social policy and social administration,80,main campus,ol
+20-nov-23,1400,1700,cssthe,nhsw421,social policy and social administration,12,main campus,f21
+20-nov-23,1400,1700,cssthe,ntrp202,islam,25,main campus,f21
+20-nov-23,1400,1700,cssthe,ntch210,introduction to methodism/wesleyan studies,41,main campus,cbst
+20-nov-23,1400,1700,ceas,ncse303,software project management,16,main campus,cbst
+20-nov-23,1400,1700,cbplg,nmpm110,public sector procurement,15,main campus,g11
+20-nov-23,1400,1700,sol,nllb203                                                              ,commercial law                                                                    ,20,main campus,g11
+20-nov-23,1400,1700,cbplg,nmms307,industrial relations,72,main campus,f38
+20-nov-23,1400,1700,chans,nsns312 ,communicable and non-communicable diseases,1,main campus,f38
+20-nov-23,1400,1700,chans,nsns312 ,communicable and non-communicable diseases,19,harare centre,lecture room
+20-nov-23,1400,1700,cssthe,nhsw421,social policy and social administration,14,harare centre,lecture room
+21-nov-23,900,1200,chans,nsls201,practical transfusion science and immunology,45,main campus,dhslab
+21-nov-23,900,1200,ceas,ncsc113,web development,76,main campus,ict lab
+21-nov-23,900,1200,sol,nllb100,zimbabwe legal system,49,main campus,fotsr
+21-nov-23,900,1200,cssthe,ntbs103,introduction to the old testament,26,main campus,fotsr
+21-nov-23,900,1200,cssthe,nhec205,"introduction to genre: poetry, drama and the novel",6,main campus,fotsr
+21-nov-23,900,1200,chans,nacp101,introduction to soil science,47,main campus,ipgl1/2
+21-nov-23,900,1200,cbplg,ncis305/nmac302,accounting information systems,43,main campus,f20
+21-nov-23,900,1200,cbplg,nmpm111,introduction to public sector management,8,main campus,ol
+21-nov-23,900,1200,cssthe,nhir426,government and politics in global perspective,59,main campus,ol
+21-nov-23,900,1200,sol,nllb202,law of evidence,20,main campus,ol
+21-nov-23,900,1200,chans,ncis305/nmac302,accounting information systems,7,main campus,f38
+21-nov-23,900,1200,cssthe,nhps309,consumer psychology,5,main campus,f38
+21-nov-23,900,1200,cssthe,ntbs311 ,biblical greek ii,40,main campus,f38
+21-nov-23,900,1200,ceas,nsce300,software testing and quality assurance,16,main campus,f38
+21-nov-23,900,1200,cssthe,nefn403,comparative education,3,main campus,f38
+21-nov-23,900,1200,cssthe,nthc302,african church history,2,main campus,f38
+21-nov-23,900,1200,ceas,ncis208,applied statistics,74,main campus,kwang lim
+21-nov-23,900,1200,cssthe,nhsw423,social conflict: impact and management,102,main campus,kwang lim
+21-nov-23,900,1200,chans,nane403,management of drainage basins and water resources,4,main campus,kwang lim
+21-nov-23,900,1200,cbplg,nmkt102,marketing principles,14,main campus,kwang lim
+21-nov-23,900,1200,cssthe,nhir113,politics of exploitation and colonial domination,50,main campus,cbst
+21-nov-23,900,1200,chans,nesn100,introduction to the earth's environment,19,main campus,cbst
+21-nov-23,900,1200,cbplg,ncsc100,problem solving techniques,1,main campus,ocl
+21-nov-23,900,1200,chans,nsha100,principles of health services accounting ,11,main campus,ocl
+21-nov-23,900,1200,ceas,ncis305,computerised accounting systems,1,main campus,ocl
+21-nov-23,900,1200,chans,naas405,animal health,3,main campus,ocl
+21-nov-23,900,1200,cssthe,ntpt321,evangelism through the local church,16,main campus,ocl
+21-nov-23,900,1200,cssthe,nhps246,psychology of counselling and psychotherapy,7,main campus,ocl
+21-nov-23,900,1200,cssthe,nhps241,developmental psychology,8,main campus,ocl
+21-nov-23,900,1200,cbplg,nmms210,company law,5,main campus,ocl
+21-nov-23,900,1200,chans,nsha201 ,health law,1,main campus,ocl
+21-nov-23,900,1200,chans,nsha201 ,health law,14,harare centre,lecture room
+21-nov-23,900,1200,chans,nsns324,pysiology,5,harare campus,lecture room
+21-nov-23,900,1200,cssthe,nhsw423,social conflict: impact and management (harare),14,harare campus,lecture room
+21-nov-23,1400,1700,cbplg,nmms207,business/commercial law,69,main campus,fotsr
+21-nov-23,1400,1700,cssthe,nmms207,business/commercial law,4,main campus,fotsr
+21-nov-23,1400,1700,cssthe,nhsw217,industrial social work,4,main campus,fotsr
+21-nov-23,1400,1700,cssthe,nhir312,states and markets,53,main campus,cbst
+21-nov-23,1400,1700,ceas,ncse206,requirements engineering,8,main campus,cbst
+21-nov-23,1400,1700,cssthe,ntbs306,pauline literature,37,main campus,iplg1/2
+21-nov-23,1400,1700,chans,naec409,agricultural policy analysis,13,main campus,g11
+21-nov-23,1400,1700,cbplg,nmpm219,local and regional economic development,13,main campus,g11
+21-nov-23,1400,1700,chans,sha305,procurement logistics and assets,6,main campus,ocl
+21-nov-23,1400,1700,cbplg,nmac204,busines finance,38,main campus,f20
+21-nov-23,1400,1700,cbplg,nmac101,foundations of accounting i,101,main campus,kwang lim
+21-nov-23,1400,1700,ceas,nmac101,foundations of accounting i,26,main campus,kwang lim
+21-nov-23,1400,1700,chans,nmac101,foundations of accounting i,29,main campus,kwang lim
+21-nov-23,1400,1700,cssthe,nhir215 ,international organizations,46,main campus,kwang lim
+21-nov-23,1400,1700,cssthe,ntbs205,biblical greek i,2,main campus,ol
+21-nov-23,1400,1700,cssthe,ntpt206,preaching practicum,2,main campus,ol
+21-nov-23,1400,1700,cssthe,ntbs612,contemporary themes in new testament studies,3,main campus,ol
+21-nov-23,1400,1700,ceas,ncis307/cis303,data communication and computer networks/networks and communications,68,main campus,ol
+21-nov-23,1400,1700,cbplg,nmec203,mathematics for economics,7,main campus,ol
+21-nov-23,1400,1700,cssthe,nhsw425 ,management and administration of social welfare organisations,80,main campus,f38/ocl
+21-nov-23,1400,1700,cssthe,nhsw425 ,management and administration of social welfare organisations,22,main campus,ocl
+21-nov-23,1400,1700,sol,nllb201 ,family law,20,main campus,ocl
+22-nov-23,900,1200,chans,nsls207,"parasitology, mycology and virology pract",22,main campus,dhslab
+22-nov-23,900,1200,ceas,ncsc116,fundamentals of digital electronics,75,main campus,ict labs
+22-nov-23,900,1200,chans,nacp113,practical agriculture i ,44,main campus,kwang lim
+22-nov-23,900,1200,cbplg,nmec101,economic principles i,103,main campus,kwang lim
+22-nov-23,900,1200,chans,nmec101,economic principles i,10,main campus,kwang lim
+22-nov-23,900,1200,ceas,nmec101,economic principles i,27,main campus,kwang lim
+22-nov-23,900,1200,cssthe,ntpt573,the care of women,3,main campus,kwang lim
+22-nov-23,900,1200,cssthe,nhsa201,introduction to sociology,80,main campus,f38/ocl
+22-nov-23,900,1200,cssthe,nhsa201,introduction to sociology,28,main campus,ocl
+22-nov-23,900,1200,chans,nhsa201,introduction to sociology,17,main campus,ocl
+22-nov-23,900,1200,cssthe,nhir111,classical african political thought,50,main campus,ol
+22-nov-23,900,1200,chans,naas212,animal production,32,main campus,ol
+22-nov-23,900,1200,chans,nsls102,clinical chemistry i,62,main campus,fotsr
+22-nov-23,900,1200,cssthe,ntst305,african christian theology,16,main campus,fotsr
+22-nov-23,900,1200,cssthe,nhps141,introduction to social psychology,28,main campus,cbst
+22-nov-23,900,1200,sol,nllb204                                                                           ,law of delict                                                                          ,20,main campus,cbst
+22-nov-23,900,1200,cssthe,ntcs507,african political ethics i: indigenous religion and african democracy,5,main campus,cbst
+22-nov-23,900,1200,chans,naae211,farm power and machinery,9,main campus,cbst
+22-nov-23,900,1200,chans,nesn101,introduction to the human environment,19,main campus,cbst
+22-nov-23,900,1200,cssthe,nhec114,practical criticism,6,main campus,cbst
+22-nov-23,900,1200,cssthe,nhsw312,social work with individuals and groups ii,5,main campus,cbst
+22-nov-23,900,1200,chans,nacp403        ,entomology,12,main campus,cbst
+22-nov-23,900,1200,sol,nphr504, international criminal law and transitional justice,14,main campus,cbst
+22-nov-23,900,1200,cbplg,nppg501,public policy analysis,5,main campus,cbst
+22-nov-23,900,1200,cbplg,nmpm112,introduction to political science,7,main campus,f21
+22-nov-23,900,1200,chans ,nsns308,research methodology,14,harare centre,lecture room
+22-nov-23,900,1200,chans,nsns401,epidemiology/ biostatistics/ health informatics,5,harare centre,lecture room
+22-nov-23,1400,1700,cssthe,nhsw205,introduction to social work with groups,142,main campus,kwang lim
+22-nov-23,1400,1700,cbplg,nmec205/ nmac207,money and banking,76,main campus,fotsr
+22-nov-23,1400,1700,cssthe,nmec205/ nmac207,money and banking,4,main campus,cbst
+22-nov-23,1400,1700,chans,nmec205/ nmac208,money and banking,4,main campus,cbst
+22-nov-23,1400,1700,cssthe,nhhs322,themes in southern african history 1500 to present,2,main campus,cbst
+22-nov-23,1400,1700,ceas,ncis301,database systems,57,main campus,ict labs
+22-nov-23,1400,1700,cssthe,ntrm100,introduction to research methods,3,main campus,cbst
+22-nov-23,1400,1700,cssthe,nhir424,gender and the state,55,main campus,ocl
+22-nov-23,1400,1700,chans,nsls200,transfusion science and immunology 1,43,main campus,iplg1/2
+22-nov-23,1400,1700,chans,sls200,transfusion science and immunology ,1,main campus,g11
+22-nov-23,1400,1700,cbplg,nmpm224,principles of international law and politics,12,main campus,g11
+22-nov-23,1400,1700,chans,naas203,principles and techniques of wildlife management,9,main campus,g11
+22-nov-23,1400,1700,cssthe,ntst208,theology ii,1,main campus,g11
+22-nov-23,1400,1700,cssthe,ntpt205,christian education,1,main campus,g11
+22-nov-23,1400,1700,cssthe,nhec203,theory and criticism of literature,2,main campus,g11
+22-nov-23,1400,1700,cssthe,ntbs615 ,the old testament and african political ethics ii,2,main campus,g11
+22-nov-23,1400,1700,cssthe,neci300 ,content methods of teaching i,7,main campus,g11
+22-nov-23,1400,1700,cbplg,nmms306,management theory and practice ii,71,main campus,f38
+22-nov-23,1400,1700,chans,nsls208,immunology ,21,main campus,ol
+22-nov-23,1400,1700,cssthe,ntcs321,church and political ethics,21,main campus,ipgl3
+22-nov-23,1400,1700,chans,nmms306,management theory and practice ii,7,main campus,ipgl3
+22-nov-23,1400,1700,ceas,ncis212,software engineering,65,main campus,ol
+22-nov-23,1400,1700,cssthe,nhir216,morality and political change,43,main campus,f20
+22-nov-23,1400,1700,cssthe,ntrp100,introduction to the study of religion,27,main campus,f21
+22-nov-23,1400,1700,cbplg,nmms206,management theory and practice,15,main campus,
+23-nov-23,900,1200,chans,nsls205,practical microbiology: bacteriology,49,main campus,dhslab
+23-nov-23,900,1200,chans,nane218,rural development,30,main campus,ol
+23-nov-23,900,1200,cbplg,nhir316,the law of contract,53,main campus,ol
+23-nov-23,900,1200,ceas,ncsc103,calculus,94,main campus,kwang lim
+23-nov-23,900,1200,cssthe,nhir422,constitutional rights and social change,56,main campus,kwang lim
+23-nov-23,900,1200,sol,nllb515 ,information and communications technology law,20,main campus,kwang lim
+23-nov-23,900,1200,chans,nsls206,"parasitology, mycology and virology ",20,main campus,kwang lim
+23-nov-23,900,1200,cbplg ,nppg503,architecture of governance in africa,5,main campus,kwang lim
+23-nov-23,900,1200,cssthe,nhir112,philosophy of african institutions,48,main campus,iplg1/2
+23-nov-23,900,1200,cbplg,nmpm103,local government management,6,main campus,g11
+23-nov-23,900,1200,ceas,ncsc101,discrete structures,1,main campus,g11
+23-nov-23,900,1200,cssthe,ntbs104,introduction to new testament,30,main campus,g11
+23-nov-23,900,1200,chans,nsls106,anatomy and physiology ,62,main campus,f38
+23-nov-23,900,1200,cssthe,ntpt214,christian worship ii,2,main campus,f38
+23-nov-23,900,1200,cbplg,nmec103,statistics for economics 1,11,main campus,f38
+23-nov-23,900,1200,chans,naas111,anatomy and physiology of farm animals,44,main campus,f20
+23-nov-23,900,1200,cssthe,nhps304,environmental psychology,8,main campus,f21
+23-nov-23,900,1200,cssthe,ntbs319,biblical foundations for leadership conflict transformation ,19,main campus,f21
+23-nov-23,900,1200,cbplg ,nphr503,"human rights, peace building and development",13,main campus,f21
+23-nov-23,900,1200,cssthe,neci501,practicum in teaching at tertiary level 1,17,main campus,fotsr
+23-nov-23,900,1200,cssthe,nhhs222,history of europe 1789-1919,9,main campus,fotsr
+23-nov-23,900,1200,chans,nesn102,introduction to natural resource management,19,main campus,fotsr
+23-nov-23,900,1200,cssthe,nhsa203,introduction to social anthropology i,11,main campus,fotsr
+23-nov-23,900,1200,cssthe,nhec102,introduction to english grammar,6,main campus,fotsr
+23-nov-23,900,1200,cssthe,nhps142,history and systems in psychology,25,main campus,iplg3
+23-nov-23,900,1200,chans,nacp407,field crop production,12,main campus,cbst
+23-nov-23,900,1200,cbplg,nmac305,auditing principles,7,main campus,cbst
+23-nov-23,900,1200,cbplg,nmms302,human resource management,30,main campus,cbst
+23-nov-23,900,1200,chans,nmms302,human resource management,20,main campus,cbst
+23-nov-23,900,1200,chans,nsns318,health services management,5,harare centre,lecture room
+23-nov-23,900,1200,chans,nsns317,nursing education,9,harare centre,lecture room
+23-nov-23,900,1200,chans,nsns311 ,principles of teaching and learning (bsn - harare),6,harare centre,lecture room
+23-nov-23,1400,1700,cssthe,ntbs512,major themes in the study of the gospels and acts,1,main campus,ocl
+23-nov-23,1400,1700,cssthe,ntch213,reformation church history,39,main campus,ocl
+23-nov-23,1400,1700,cbplg,nmms201,organisational behaviour,26,main campus,cbst
+23-nov-23,1400,1700,chans,nmms201,organisational behaviour,30,main campus,cbst
+23-nov-23,1400,1700,cbplg,nmac203,intermediate accounting ii,6,main campus,cbst
+23-nov-23,1400,1700,cbplg,nmac202,intermediate accounting i,38,main campus,
+23-nov-23,1400,1700,cbplg,nmac202,intermediate accounting i,4,main campus,fotsr
+23-nov-23,1400,1700,cbplg,ncis209,foundations of information systems,17,main campus,fotsr
+23-nov-23,1400,1700,ceas,ncse204,visual programming,8,main campus,ict lab
+23-nov-23,1400,1700,cbplg,nmec403 ,development economics,7,main campus,ocl
+23-nov-23,1400,1700,chans,naec407,entrepreneurship and small business development in agriculture,2,main campus,cbst
+23-nov-23,1400,1700,chans,nacp202,biometry,35,main campus,
+23-nov-23,1400,1700,chans,nshs204,research methods and ethics in health care,59,main campus,kwang lim
+23-nov-23,1400,1700,cbplg,nmpm313,sustainable development management,13,main campus,g11
+23-nov-23,1400,1700,cssthe,nhsw101,introduction to social work and social welfare,78,main campus,f38
+23-nov-23,1400,1700,cbplg,nmec201 ,intermediate microeconomics,7,main campus,g11
+23-nov-23,1400,1700,cbplg,nmms103,introduction to management,89,main campus,kwang lim
+23-nov-23,1400,1700,ceas,nmms103,introduction to management,29,main campus,kwang lim
+23-nov-23,1400,1700,chans,nmms103,introduction to management,12,main campus,kwang lim
+23-nov-23,1400,1700,chans,nsls100,laboratory principles,62,main campus,fotsr
+23-nov-23,1400,1700,cssthe,nhir313,environmental diplomacy,55,main campus,
+23-nov-23,1400,1700,cssthe,nhsw428,child protection,102,main campus,ol/g11
+23-nov-23,1400,1700,cbplg,nmac401 , advanced accounting,44,main campus,
+23-nov-23,1400,1700,ceas,ncsc302,advanced networks and telecommunications,28,main campus,
+23-nov-23,1400,1700,cssthe,nhsw428,child protection (harare),14,harare centre,lecture room
+24-nov-23,900,1400,chans,nsls101,laboratory principles practical,63,main campus,dhslab
+24-nov-23,900,1400,ceas,ncsc114,principles of programming langauges,75,main campus,ict lab
+24-nov-23,900,1400,cssthe,neci300 ,content methods of teaching ii,7,main campus,iplg1/2
+24-nov-23,900,1400,chans,nahc402,vegetable production,11,main campus,iplg1/2
+24-nov-23,900,1400,cssthe,nhhs221,history of zimbabwe 1800 to present,3,main campus,iplg1/2
+24-nov-23,900,1400,chans,nsph546 , communicable diseases including stis and hiv/aids,5,main campus,iplg1/2
+24-nov-23,900,1400,cbplg,ncis204,electronic business ,14,main campus,iplg1/2
+24-nov-23,900,1400,chans,naec401,farm management and farm planning,34,main campus,ocl
+24-nov-23,900,1400,cssthe,nhsw422,monitoring and evaluation of social work programmes,97,main campus,ol/g11
+24-nov-23,900,1400,cbplg,nmkt302,purchasing and material management,74,main campus,f38
+24-nov-23,900,1400,chans,nsha301,health economics and health care financing,57,main campus,kwang lim
+24-nov-23,900,1400,chans,nacp209,soil fertility and plant nutrition,1,main campus,ocl
+24-nov-23,900,1400,chans,nawl405,ecotourism and hospitality management,6,main campus,ocl
+24-nov-23,900,1400,cssthe,ntpt207,introduction to pastoral care and counselling,25,main campus,g11
+24-nov-23,900,1400,chans,naas404,pasture and range management,6,main campus,f20
+24-nov-23,900,1400,cssthe,nhps240,psychological testing and measurement,8,main campus,f20
+24-nov-23,900,1400,cssthe,nhps441,cross-cultural psychology,5,main campus,f20
+24-nov-23,900,1400,chans,nsha401,health service administration and management,7,main campus,f20
+24-nov-23,900,1400,cbplg,nrem500,research methods,5,main campus,f20
+24-nov-23,900,1400,sol,nrem500,research methods,14,main campus,f20
+24-nov-23,900,1400,cssthe,nhsw207,socio economic development,142,main campus,kwang lim
+24-nov-23,900,1400,cssthe,nhsw422,monitoring and evaluation of social work programmes,14,harare centre,lecture room
+24-nov-23,1400,1700,cbplg,nmpm220,public sector economics,12,main campus,f38
+24-nov-23,1400,1700,chans,nsls202,haematology i,44,main campus,ipgl1/2
+24-nov-23,1400,1700,cssthe,nhir211 ,economic development of africa,47,main campus,kwang lim
+24-nov-23,1400,1700,cssthe,nhir311,politics of international trade,57,main campus,ol
+24-nov-23,1400,1700,ceas,ncsc301,artificial intelligence,44,main campus,f38
+24-nov-23,1400,1700,ceas,ncis306,computer architecture and organization,65,main campus,cbst
+24-nov-23,1400,1700,ceas,ncis211,web technologies,26,main campus,ict labs
+24-nov-23,1400,1700,cssthe,neci403,curriculum development,3,main campus,cbst
+24-nov-23,1400,1700,chans,naas401,applied animal nutrition,4,main campus,cbst
+24-nov-23,1400,1700,cbplg,nmac201,cost accounting,39,main campus,f20
+24-nov-23,1400,1700,cssthe,nmac201,cost accounting,4,main campus,f20
+24-nov-23,1400,1700,chans ,nacp217,genetics and biotechnology,32,main campus,g11
+24-nov-23,1400,1700,cbplg,nmpm312,public policy analysis,13,main campus,f21
+24-nov-23,1400,1700,chans,naec402,agricultural marketing,16,main campus,f21
+24-nov-23,1400,1700,cssthe,ntst205,theology and land praxis i,4,main campus,g11
+24-nov-23,1400,1700,cbplg,nmac206,principles of public finance,5,main campus,iplg3
+24-nov-23,1400,1700,cbplg,nmec206 ,public sector economics,7,main campus,iplg3
+24-nov-23,1400,1700,cbplg,nmms211,change management,16,main campus,f38
+24-nov-23,1400,1700,cbplg,nmms402,production and operations management,72,main campus,fotsr
+24-nov-23,1400,1700,cssthe,nhsw212 ,trauma counseling in social work,142,main campus,kwang lim
+27-nov-23,900,1200,cssthe,nhsw214,research methods and statistics for social work,143,main campus,kwang lim
+27-nov-23,900,1200,chans,nshi200,health informatics,75,main campus,f38
+27-nov-23,900,1200,cssthe,neci304 ,research methods,7,main campus,f21
+27-nov-23,900,1200,ceas,ncsc411,algorithms and database structures,19,main campus,f21
+27-nov-23,900,1200,ceas,ncis401,systems analysis design and implementation,46,main campus,kwang lim
+27-nov-23,900,1200,cbplg,nmac310,"taxation, tax law and practice",44,main campus,f20
+27-nov-23,900,1200,cssthe,nhps442,the psychology of family process and dynamics,8,main campus,f20
+27-nov-23,900,1200,cssthe,nhie101,intensive english i (paper i),89,main campus,ol
+27-nov-23,900,1200,cbplg,nppg505, leadership and public policy in africa     ,5,main campus,ocl
+27-nov-23,900,1200,cssthe,nhir213 ,comparative political development in africa,46,main campus,ocl
+27-nov-23,900,1200,cbplg,nmpm311,"administrative law, ethics and professionalism",13,main campus,g11
+27-nov-23,900,1200,cbplg,nmpm213,perfomance management,12,main campus,g11
+27-nov-23,900,1200,cssthe,ntbs203,biblical hebrew i,28,main campus,iplg3
+27-nov-23,900,1200,cbplg,nmms204 ,quantitative analysis ii,14,main campus,fotsr
+27-nov-23,900,1200,cssthe,nhen307,creative writing,3,main campus,kwang lim
+27-nov-23,900,1200,cssthe,ntch212,medieval church history,1,main campus,f38
+27-nov-23,900,1200,sol,nphr500,conceptual foundations and philosophy of human rights,15,main campus,fotsr
+27-nov-23,900,1200,chans,naas417,dairy management,2,main campus,fotsr
+27-nov-23,900,1200,cssthe,ntcs610,ethics and development,2,main campus,fotsr
+27-nov-23,900,1200,chans,nsph516 ,non-communicable diseases,5,main campus,fotsr
+27-nov-23,900,1200,cbplg,nmms205,nmms205 / public sector management,13,,
+27-nov-23,900,1200,cssthe,nthc310, public sector management,17,main campus,fotsr
+27-nov-23,900,1200,cbplg,nmac209,audit process   ,11,main campus,fotsr
+27-nov-23,900,1200,cbplg,nppg505, leadership and public policy in africa ,5,main campus,fotsr
+27-nov-23,900,1200,cssthe,npir512,african leadership in foreign policy decision making,4,harare centre,lecture room
+27-nov-23,900,1200,chans,nsph544,applied biostatistics,12,harare centre,lecture room
+27-nov-23,900,1200,chans,nrem500,research methods (mph),8,harare centre,lecture room
+27-nov-23,900,1200,cbplg,nrem-500,research methods (meic),,harare centre,lecture room
+27-nov-23,900,1200,cbplg,nrem-500,research method(mmcrp),6,harare centre,lecture room
+27-nov-23,900,1200,cbplg,nrem-500,research methods (emba),19,harare centre,lecture room
+27-nov-23,900,1200,chans,naec503,applied econometrics,1,harare centre,lecture room
+27-nov-23,900,1200,sol,nhcr-513,child participation and agency in africa,8,harare centre,lecture room
+27-nov-23,900,1200,cbplg,need514,corporate entrepreneurship,4,harare centre,lecture room
+27-nov-23,1400,1700,cssthe,nthc400,missiology,2,main campus,kwang lim
+27-nov-23,1400,1700,chans,nanr406,community-based natural resources management,6,main campus,kwang lim
+27-nov-23,1400,1700,cbplg,nmpm317,government and politics in africa,13,main campus,kwang lim
+27-nov-23,1400,1700,cssthe,nhps248,organizational psychology,20,main campus,kwang lim
+27-nov-23,1400,1700,ceas,ncsc305,parallel and distributed computing,25,main campus,kwang lim
+27-nov-23,1400,1700,chans,nsls209,immunology practical,21,main campus,kwang lim
+27-nov-23,1400,1700,cssthe,nhen325,language and gender,3,main campus,kwang lim
+27-nov-23,1400,1700,cbplg,nhcr512 ,sociology and conceptions of childhood in africa,6,main campus,kwang lim
+27-nov-23,1400,1700,cssthe,ntpt202,ministry of evangelism,25,main campus,kwang lim
+27-nov-23,1400,1700,cssthe,nhir314,politics of developing countries,55,main campus,kwang lim
+27-nov-23,1400,1700,chans,nacp216,ecology,9,main campus,kwang lim
+27-nov-23,1400,1700,cssthe,nhsw223,social work with individuals and groups,2,main campus,kwang lim
+27-nov-23,1400,1700,sol,nphr500,conceptual foundations and philosophy of human rights,5,harare centre,lecture room
+27-nov-23,1400,1700,cbplg,nmms509,corporate governance and business ethics,9,harare centre,lecture room
+28-nov-23,900,1200,chans,nshs203,introduction to epidemiology and biostatistics,75,main campus,kwanglim
+28-nov-23,900,1200,cbplg,nmac307,strategic management accounting,44,main campus,kwang lim
+28-nov-23,900,1200,cssthe,ntst102,theology 1,23,main campus,kwang lim
+28-nov-23,900,1200,cssthe,ntcs301,church and social transformation,37,main campus,kwang lim
+28-nov-23,900,1200,cssthe,nhie101,intensive english i (paper ii),89,main campus,ol
+28-nov-23,900,1200,cbplg,nmpm226,"democracy, human rights and development",13,main campus,fotsr
+28-nov-23,900,1200,chans,naas406,animal breeding,4,main campus,fotsr
+28-nov-23,900,1200,chans,nsls403,clinical chemistry ii,1,main campus,fotsr
+28-nov-23,900,1200,cssthe,nhhs423,histrory of political thought,2,main campus,fotsr
+28-nov-23,900,1200,cssthe,nefn300 ,philosophy of education,2,main campus,fotsr
+28-nov-23,900,1200,chans,nane401,environmental and ecological rehabilitation,7,main campus,fotsr
+28-nov-23,900,1200,cssthe,ntcs501,methods in the study of christian ethics,5,main campus,fotsr
+28-nov-23,900,1200,cbplg,nppg500,introduction to public policy,5,main campus,fotsr
+28-nov-23,900,1200,ceas,nphr501,international and regional human rights systems,13,main campus,fotsr
+28-nov-23,900,1200,chans,nsph545,applied epidemiology,12,harare centre,lecture room
+28-nov-23,900,1200,chans,nsph534,ethics in health practice,8,harare centre,lecture room
+28-nov-23,900,1200,chans,naec505,financial accounting,1,harare centre,lecture room
+28-nov-23,900,1200,sol,nhcr_512,child rights advocacy & public policy,8,harare centre,lecture room
+28-nov-23,900,1200,cbplg,need511,corporate governance and entrepreneurial ethics,1,harare centre,lecture room
+28-nov-23,900,1200,cbplg,nmcr502,international humanitarian law and refugee law in african context,6,harare centre,lecture room
+28-nov-23,1400,1700,cssthe,nhir315,international law,56,main campus,kwang lim
+28-nov-23,1400,1700,ceas,ncis300,computer graphics,42,main campus,kwang lim
+28-nov-23,1400,1700,chans,nsls210,histology,42,main campus,kwang lim
+28-nov-23,1400,1700,ceas,ncse302,software architecture and design,16,main campus,kwang lim
+28-nov-23,1400,1700,chans,nacp211,crop physiology,31,main campus,kwang lim
+28-nov-23,1400,1700,chans,nawl404,freshwater ecology and fisheries management,7,main campus,fotsr
+28-nov-23,1400,1700,cssthe,ntpt198,christian worship i,27,main campus,fotsr
+28-nov-23,1400,1700,cssthe,nhir221,ngos and world politics,11,main campus,fotsr
+28-nov-23,1400,1700,cssthe,nhps244,qualitative research methods in psychology,8,main campus,fotsr
+28-nov-23,1400,1700,cssthe,nhir224 ,political leadership in africa,9,main campus,fotsr
+28-nov-23,1400,1700,chans,sls200,blood bank,1,main campus,cbst
+28-nov-23,1400,1700,cssthe,nhps242,community psychology,8,main campus,cbst
+28-nov-23,1400,1700,cbplg,nmec401,managerial economics,7,main campus,cbst
+28-nov-23,1400,1700,chans,naas407,beef production,2,main campus,cbst
+28-nov-23,1400,1700,cbplg,nhcr514,research methods,6,main campus,cbst
+28-nov-23,1400,1700,cssthe,nhsw314,reflective professional practice in social work,4,main campus,cbst
+28-nov-23,1400,1700,cssthe,ntcs509,environmental ethics i,5,main campus,cbst
+28-nov-23,1400,1700,chans,nacp213,principles of crop production,3,main campus,cbst
+28-nov-23,1400,1700,cssthe,nhsw105,ethics and professional social work practice,3,main campus,cbst
+28-nov-23,1400,1700,sol,nppd517,culture conflict and human rights law,7,harare centre,lecture room
+28-nov-23,1400,1700,sol,nphr500,conceptual foundations and philosophy of human rights,4,harare centre,lecture room
+28-nov-23,1400,1700,cbplg,nmcr501,migration and sustainable development,6,harare centre,lecture room
+28-nov-23,1400,1700,cbplg,nmms508,strategy and change management,19,harare centre,lecture room
+28-nov-23,1400,1700,cbplg,nmms504,entrepreneurshipand small business management,9,harare centre,lecture room
+29-nov-23,900,1200,cssthe,nhps440/nefn101,educational psychology,5,main campus,kwang lim
+29-nov-23,900,1200,cssthe,nhie101,intensive english i (paper i),89,main campus,kwang lim
+29-nov-23,900,1200,sol,nphr502,national protection of human rights in africa,13,main campus,kwang lim
+29-nov-23,900,1200,chans,nacp405,plant breeding methods and biotechnology,12,main campus,kwang lim
+29-nov-23,900,1200,cbplg,nmkt401,marketing management,72,main campus,kwang lim
+29-nov-23,900,1200,cssthe,ntpt309,united methodist church polity and doctrine,1,main campus,kwang lim
+29-nov-23,900,1200,cssthe,ntrp201,african religion,1,main campus,kwang lim
+29-nov-23,900,1200,chans,nsph541,health statistics (mph),5,main campus,cbst
+29-nov-23,900,1200,chans,nsls211,histology practical ,21,main campus,cbst
+29-nov-23,900,1200,cssthe,ntbs606,translation and exegesis of selected texts from the greek new testament,3,main campus,cbst
+29-nov-23,900,1200,chans,sls201,blood bank practical,1,main campus,cbst
+29-nov-23,900,1200,cbplg,nmac102,foundations of accounting ii,1,main campus,cbst
+29-nov-23,900,1200,cssthe,ntch211,early church history,1,main campus,cbst
+29-nov-23,900,1200,cssthe,ntbs309,prophets ii,18,main campus,cbst
+29-nov-23,900,1200,chans,nshi500,health informatics,6,harare centre,lecture room
+29-nov-23,900,1200,chans,nsph539,"family, reproductive and child health",9,harare centre,lecture room
+29-nov-23,900,1200,sol,nhcr-511,child rights in the african context,8,harare centre,lecture room
+29-nov-23,900,1200,cbplg,neic511,design thinking for market-driven innovation,3,harare centre,lecture room
+29-nov-23,1400,1700,cssthe,ntpt201,homiletics,28,main campus,kwang lim
+29-nov-23,1400,1700,chans,nsls204,microbiology 1: bacteriology,46,main campus,kwang lim
+29-nov-23,1400,1700,cbplg,nmec302,international economics i (trade),7,main campus,kwang lim
+29-nov-23,1400,1700,cssthe,nhhs421,economic history of africa 1800 to present,11,main campus,kwang lim
+29-nov-23,1400,1700,chans,naec408,project appraisal and evaluation,30,main campus,kwang lim
+29-nov-23,1400,1700,chans ,nshs209,prevention & control of comm & non comm diseases,18,main campus,kwang lim
+29-nov-23,1400,1700,cssthe,nhsw311,social work methods and interventions in africa,1,main campus,kwang lim
+29-nov-23,1400,1700,cssthe,nhir225 ,research methods,15,main campus,kwang lim
+29-nov-23,1400,1700,cssthe,ntpt305,clinical pastoral education,1,main campus,kwang lim
+29-nov-23,1400,1700,cssthe,ntbs616,the new testament and african political ethics ii,3,main campus,kwang lim
+29-nov-23,1400,1700,cssthe,ntrm500,research methods,4,main campus,kwang lim
+29-nov-23,1400,1700,cbplg,nhcr511,child rights in the african context,6,harare centre,lecture room
+29-nov-23,1400,1700,sol,nphr503,human rights peace-building and development,4,harare centre,lecture room
+29-nov-23,1400,1700,cbplg,nmcr504,migration: refugee policy and human rights in global context,6,harare centre,lecture room
+29-nov-23,1400,1700,cbplg,nmms501,management information systems,19,harare centre,lecture room
+29-nov-23,1400,1700,cbplg,nmms505,human resources management and industrial relations,9,harare centre,lecture room
+29-nov-23,1400,1700,chans,nsph507,health promotion,14,harare centre,lecture room
+30-nov-23,900,1200,chans,nsph520,health policy,6,harare centre,lecture room
+30-nov-23,900,1200,chans,nsph523,health systems management,8,harare centre,lecture room
+30-nov-23,900,1200,sol,nhcr_514,child rights programming,8,harare centre,lecture room
+30-nov-23,900,1200,cbplg,neic513,e-commerce strategies for entrepreneurs,4,harare centre,lecture room
+30-nov-23,900,1200,cbplg,neic504,entrepreneurial finance,1,harare centre,lecture room
+30-nov-23,1400,1700,chans,nsph501,principles of public health,,harare centre,lecture room
+30-nov-23,1400,1700,sol,nphr501,international and regional human rights systems,4,harare centre,lecture room
+30-nov-23,1400,1700,cbplg,nmcr503,"the political economy of migration, citizenship and refugee protection",6,harare centre,lecture room
+30-nov-23,1400,1700,cbplg,nmba503,quantitative analysis for managers,20,harare centre,lecture room
+30-nov-23,1400,1700,cbplg,nmkt501,marketing management,9,harare centre,lecture room
+30-nov-23,1400,1700,cbplg,nmms511,strategic management,1,harare centre,lecture room
+30-nov-23,1400,1700,cbplg,nsph536,environmental health,14,harare centre,lecture room
+,,,,,,,,

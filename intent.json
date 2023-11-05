@@ -1,0 +1,119 @@
+{
+  "greeting": [
+    "hi",
+    "hello",
+    "greetings",
+    "hi, how are you?",
+    "hi, how is it going?",
+    "hi, how are you doing?",
+    "how are you?",
+    "how are you doing?",
+    "what's up?",
+    "good morning?",
+    "good afternoon?",
+    "good evening?",
+    "hey?",
+    "yo?"
+  ],
+  "programs_list": [
+    "what programs are offered at africa University?",
+    "what degrees are offered at africa university?",
+    "can you list all the programs offered at africa university?",
+    "can you list all the degrees offered at africa university?",
+    "can you list all the programs offered at the university?",
+    "can you list all the degrees offered at the university?",
+    "what are the programs offered at Africa University?",
+    "what are the degrees offered at Africa University?",
+    "what are the degrees offered at the University?",
+    "what are the programs offered at the University?",
+    "which degrees are offered at the university?",
+    "which programs are offered at the university?"
+  ],
+  "programs_search": [
+    "i am looking for a program",
+    "i am looking for a degree",
+    "is the following degree offered at africa university [PROGRAM_NAME]?",
+    "is the following program offered at africa university [PROGRAM_NAME]?",
+    "is the following degree offered at the university [PROGRAM_NAME]?",
+    "is the following program offered at the university [PROGRAM_NAME]?",
+    "is [PROGRAM_NAME] program offered at the university?",
+    "is [PROGRAM_NAME] degree offered at africa university?",
+    "does africa university offer [PROGRAM_NAME] degree?",
+    "does africa university offer [PROGRAM_NAME] program?",
+    "does the university offer [PROGRAM_NAME] degree?",
+    "does the university offer [PROGRAM_NAME] program?"
+  ],
+  "sports_list": [
+    "what are the sports offered at africa university?",
+    "what are the sports offered at the university?",
+    "what sports are offered at africa university?",
+    "what sports are offered at the university?",
+    "which are the sports offered at africa university?",
+    "which sports are offered at the university?",
+    "can you list all the sports offered at africa university?",
+    "can you list all the sports offered at the university?",
+    "list all the sports offered at africa university",
+    "list all the sports offered at the university?"
+  ],
+  "sports_search": [
+    "is the [SPORT_NAME] sport offered at africa university?",
+    "is [SPORT_NAME] sport offered at the university?",
+    "does africa university offer [SPORT_NAME] sport?",
+    "does the university offer [SPORT_NAME] sport?",
+    "does africa university offer [SPORT_NAME] as a sport?",
+    "does the university offer [SPORT_NAME] as a sport?"
+  ],
+  "clubs_list": [
+    "what are the clubs offered at africa university?",
+    "what are the clubs offered at the university?",
+    "what clubs are offered at africa university?",
+    "what clubs are offered at the university?",
+    "which are the clubs offered at africa university?",
+    "which clubs are offered at the university?",
+    "can you list all the clubs offered at africa university?",
+    "can you list all the clubs offered at the university?",
+    "list all the clubs offered at africa university",
+    "list all the clubs offered at the university?"
+  ],
+  "clubs_search": [
+    "is the [CLUB_NAME] club offered at africa university?",
+    "is [CLUBS_NAME] club offered at the university?",
+    "does africa university offer [CLUBS_NAME] club?",
+    "does the university offer [CLUBS_NAME] as a club?"
+  ],
+  "university_website": [
+    "can you direct me to the africa university website?",
+    "Where can I get more information about the university?",
+    "can you direct me to the university website?",
+    "can you direct me to the university dining hall website?",
+    "can you direct me to the food website?",
+    "where can I order food from?",
+    "where should I order food from on campus?",
+    "can you direct me to the university library website?",
+    "can you direct me to the africa university library website?",
+    "do you know where i can read books and academic journals?",
+    "do you know where i can get books and academic journals?",
+    "can you direct me to the academia website?",
+    "can you direct me to where I can view my results from?"
+  ],
+  "calendar": [
+    "I want to search through the African University Calendar",
+    "I want to search for an event in the school calendar"
+  ],
+  "lecturers": [
+    "I want to search for an africa university lecturer",
+    "I want to search for a lecturers contact"
+  ],
+  "timetable": [
+    "I want to search through the African University timetable",
+    "I want to search for a course in the school time table"
+  ],
+  "admin": [
+    "I want to search for the contact of the Administrator office",
+    "What time does the Admin Office"
+  ],
+  "exams": [
+    "I want to search for an Exam in the Exams Time Table",
+    "I want to search for a venue in the exams Time Table"
+  ]
+}
