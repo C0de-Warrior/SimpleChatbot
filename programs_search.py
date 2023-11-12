@@ -2,6 +2,8 @@ import csv
 
 
 def handle_programs_search(user_input):
+    response = ""
+
     # Read the programs.csv file
     with open('programs.csv', 'r') as file:
         reader = csv.DictReader(file)
@@ -26,20 +28,19 @@ def handle_programs_search(user_input):
         elif level == '' and any(word in program_words for word in user_words):
             filtered_programs.append(program)
 
-    # Print the filtered programs
+    # Prepare the response
     if filtered_programs:
-        print("Here is a list of available programs:")
+        response += "Here is a list of available programs:<br>"
         for program in filtered_programs:
-            print(f"Program: {program['program']}")
-            print(f"Description: {program['description']}")
-            print(f"Level: {program['level']}")
-            print()
+            response += f"Program: {program['program']}<br>"
+            response += f"Description: {program['description']}<br>"
+            response += f"Level: {program['level']}<br><br>"
     else:
-        print(
-            "The program you are searching for is not offered at the university. Please choose from the available "
-            "programs:")
+        response += ("The program you are searching for is not offered at the university. Please choose from the "
+                     "available programs:<br>")
         for program in programs:
-            print(f"Program: {program['program']}")
-            print(f"Description: {program['description']}")
-            print(f"Level: {program['level']}")
-            print()
+            response += f"Program: {program['program']}<br>"
+            response += f"Description: {program['description']}<br>"
+            response += f"Level: {program['level']}<br><br>"
+
+    return response

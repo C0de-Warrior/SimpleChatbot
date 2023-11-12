@@ -15,6 +15,7 @@ responsibilities = [
     "invoices"
 ]
 
+
 def search_admin_by_name(name):
     close_matches = []
     for index, row in data.iterrows():
@@ -43,54 +44,26 @@ def search_admin_by_responsibility(responsibility):
 
 
 def handle_admin(user_input):
-    user_input = input(
-        "Please select an option:\n1. Search for admin by name\n2. Search for admin by responsibility\nYour choice: ")
-
+    response = ""
     if user_input == "1":
-        name = input("Enter the name: ").lower()
-        admin_data = search_admin_by_name(name)
-        print(admin_data)
+        response += "Enter the name: "
+        # Instead of using `input`, you can directly call the `search_admin_by_name` function
+        # and append the result to the `response` string
+        # Example: response += str(search_admin_by_name(name))
     elif user_input == "2":
-        print("Please choose from the following responsibilities:")
-        print("1. Payment Plans")
-        print("2. Fee Statement")
-        print("3. Registration")
-        print("4. Scholarships")
-        print("5. Refunds")
-        print("6. Cashier")
-        print("7. Invoices")
-        responsibility_choice = input("Enter the responsibility choice number: ")
-
-        if responsibility_choice == "1":
-            responsibility = "payment plans"
-        elif responsibility_choice == "2":
-            responsibility = "fee statement"
-        elif responsibility_choice == "3":
-            responsibility = "registration"
-        elif responsibility_choice == "4":
-            responsibility = "scholarships"
-        elif responsibility_choice == "5":
-            responsibility = "refunds"
-        elif responsibility_choice == "6":
-            responsibility = "cashier"
-        elif responsibility_choice == "7":
-            responsibility = "invoices"
-        else:
-            print("Invalid choice. Please enter a number between 1 and 7.")
-            return
-
-        # Convert the responsibility choice to lowercase for comparison
-        responsibility_choice_lower = responsibility_choice.lower()
-
-        # Check if the lowercase responsibility choice is in the lowercase responsibilities list
-        if responsibility_choice_lower in [r.lower() for r in responsibilities]:
-            admin_data = search_admin_by_responsibility(responsibility)
-            print(admin_data)
-        else:
-            print("Invalid choice. Please enter a number between 1 and 7.")
-            return
-
-        admin_data = search_admin_by_responsibility(responsibility)
-        print(admin_data)
+        response += "Please choose from the following responsibilities:\n"
+        response += "1. Payment Plans\n"
+        response += "2. Fee Statement\n"
+        response += "3. Registration\n"
+        response += "4. Scholarships\n"
+        response += "5. Refunds\n"
+        response += "6. Cashier\n"
+        response += "7. Invoices\n"
+        response += "Enter the responsibility choice number: "
+        # Instead of using `input`, you can directly call the `search_admin_by_responsibility` function
+        # and append the result to the `response` string
+        # Example: response += str(search_admin_by_responsibility(responsibility))
     else:
-        print("Invalid choice. Please enter 1 or 2.")
+        response = "Invalid choice. Please enter 1 or 2."
+
+    return response

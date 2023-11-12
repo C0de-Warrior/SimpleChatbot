@@ -96,24 +96,67 @@
     "can you direct me to the academia website?",
     "can you direct me to where I can view my results from?"
   ],
-  "calendar": [
-    "I want to search through the African University Calendar",
-    "I want to search for an event in the school calendar"
+  "calendar_event": [
+    "When is [event] in the Africa University Calendar",
+    "When is [event] in the school Calendar",
+    "I want to search for [event] in the school calendar"
+  ],
+  "calendar_date": [
+    "What events are on [date] in the school Calendar"
   ],
   "lecturers": [
     "I want to search for an africa university lecturer",
-    "I want to search for a lecturers contact"
+    "I want to search for a t"
+  ],
+  "lecturers_name": [
+    "I am searching for the contact details of africa university lecturer [name]",
+    "I want to search for a lecturers contact details [name]"
+  ],
+  "lecturers_department": [
+    "I am searching for the contact details of africa university lecturers in the [department] department",
+    "I want to search for the lecturers contact details in the [department] department"
+  ],
+  "lecturers_role": [
+    "I am searching for the contact details of the Deans of africa university departments",
+    "I want to a list of all the deans at africa university"
   ],
   "timetable": [
     "I want to search through the African University timetable",
     "I want to search for a course in the school time table"
   ],
-  "admin": [
-    "I want to search for the contact of the Administrator office",
-    "What time does the Admin Office"
+  "timetable_program": [
+    "I want to search for the year [year], [program] program in the school time table"
   ],
-  "exams": [
-    "I want to search for an Exam in the Exams Time Table",
-    "I want to search for a venue in the exams Time Table"
+  "timetable_venue": [
+    "Can you provide the timetable for the [venue_name] venue",
+    "I want the timetable for the [venue_name] venue"
+  ],
+  "timetable_lecturer": [
+    "Can you provide the timetable for [lecturer_name]",
+    "I want the timetable for [lecturer_name]"
+  ],
+  "exams_venue": [
+    "I want to search for an Exam in the Exams Time Table by the [venue_name] venue",
+    "I want to search for the [venue_name]venue in the exams Time Table"
+  ],
+  "exams_course": [
+    "I want to search for an Exam in the Exams Time Table by the [course_name] course",
+    "I want to search for the [course_name] course in the exams Time Table"
+  ],
+  "exams_code": [
+    "I want to search for an Exam in the Exams Time Table by the [course_code] course code",
+    "I want to search for the [course_code] course code in the exams Time Table"
+  ],
+  "admin_name": [
+    "I want the contact details of [name] from the Administrator office",
+    "I want to search for the contact details of [name] from the administrators office"
+  ],
+  "admin_role": [
+    "I want the contact details of the person at the Administrator office who is in charge of [responsibility]",
+    "I want the contact details of the person at the Administrator office whose in charge of [responsibility]",
+    "I want the contact details of the person at the Administrator office who is in responsible [responsibility]",
+    "I want the contact details of the person at the Administrator office whose role is [responsibility]",
+    "Who is responsible for [responsibility] at the Administrator office",
+    "Whose role is [responsibility] at the Administrator office"
   ]
 }

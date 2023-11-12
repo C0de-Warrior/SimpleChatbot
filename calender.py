@@ -4,27 +4,17 @@ from difflib import SequenceMatcher
 
 
 def handle_calendar(user_input):
-    user_input = input("Please enter your choice between 1 or 2:\n"
-                       "1. Search for an Event\n"
-                       "2. Search for Events on a Specific Date\n"
-                       "Enter 'exit' to quit: ")
-
     if user_input.lower() == "exit":
         return False
 
     if user_input == "1":
         event_query = input("Enter the event you want to search: ")
         result = search_events(event_query)
-        print(result)
+        return result
     elif user_input == "2":
-        print("Please enter the date in the format 'DD-Mon-YY'")
-        date_query = input("Enter the date you want to search: ")
-        result = search_events(date_query)
-        print(result)
+        return "Please enter the date in the format 'DD-Mon-YY'"
     else:
-        print("Invalid choice. Please enter 1 or 2.")
-
-    return True
+        return "Invalid choice. Please enter 1 or 2."
 
 
 def search_events(query):
@@ -41,6 +31,10 @@ def search_events(query):
             return "The specified date has already passed."
 
         results = data[data['date'] == query_date]
+        if not results.empty:
+            return results[['date', 'event']].to_string(index=False)
+        else:
+            return "No events found on the specified date."
     else:
         exact_match = data[data['event'] == query]
         if not exact_match.empty:

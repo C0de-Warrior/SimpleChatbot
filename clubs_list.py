@@ -2,33 +2,19 @@ import csv
 
 
 def handle_clubs_list(user_input):
-    # Read the programs.csv file
+    # Read the clubs.csv file
     with open('clubs.csv', 'r') as file:
         reader = csv.DictReader(file)
         clubs = list(reader)
 
-    # Filter programs based on user's specified level
-    # gender = ''
-    # user_input = user_input.lower()
-
-    # if 'mens' in user_input:
-    # gender = 'mens'
-    # elif 'womens' in user_input:
-    # gender = 'womens'
-    # elif 'mixed' in user_input:
-    # gender = 'mixed'
-
-    # filtered_sports = []
-    # for sport in sports:
-    #     if gender == '' or sport['gender'].lower() == gender:
-    #         filtered_sports.append(sport)
-
-    # Print the clubs
+    # Generate the response
+    response = ""
     if clubs:
-        print("Here is a list of available clubs:")
+        response += "Here is a list of available clubs:<br><br>"
         for club in clubs:
-            print(f"CLub: {club['club']}")
-            print(f"Description: {club['description']}")
-            print()
+            response += f"Club: {club['club']}<br>"
+            response += f"Description: {club['description']}<br><br>"
     else:
-        print("No club found.")
+        response = "No clubs found."
+
+    return response

@@ -46,22 +46,29 @@ def search_timetable_by_course_code(course_code):
 
 
 def handle_exams(user_input):
-    user_input = input(
-        "Please select an option:\n1. Search for timetable by course title\n2. Search for timetable by venue\n3. Search for timetable by course code\nYour choice: ").lower()
-    if user_input == "1":
+    search = ''  # Initialize the search variable as blank
+
+    if 'title' in user_input.lower():
+        search = 1
+    elif 'code' in user_input.lower():
+        search = 2
+    elif 'venue' in user_input.lower():
+        search = 3
+
+    if search == 1:
         course_title = input("Enter the course title: ").lower()
         timetable = search_timetable_by_course_title(course_title)
-        print(timetable)
-    elif user_input == "2":
-        venue = input("Enter the venue: ").lower()
-        timetable = search_timetable_by_venue(venue)
-        print(timetable)
-    elif user_input == "3":
+        response = str(timetable)
+    elif search == 2:
         course_code = input("Enter the course code: ").lower()
         timetable = search_timetable_by_course_code(course_code)
-        print(timetable)
+        response = str(timetable)
+    elif search == 3:
+        venue = input("Enter the venue: ").lower()
+        timetable = search_timetable_by_venue(venue)
+        response = str(timetable)
     else:
-        print("Invalid choice. Please enter a number between 1 and 3.")
+        response = "Invalid choice. Please specify whether you want to search by title, code, or venue."
 
+    return response
 
-# Example usage

@@ -3,6 +3,8 @@ from fuzzywuzzy import fuzz
 
 
 def handle_sports_search(user_input):
+    response = ""
+
     # Read the sports.csv file
     with open('sports.csv', 'r') as file:
         reader = csv.DictReader(file)
@@ -35,24 +37,24 @@ def handle_sports_search(user_input):
     # Sort the matched sports based on similarity score
     filtered_sports = sorted(filtered_sports, key=lambda x: x['similarity_score'], reverse=True)
 
-    # Print the filtered sports
+    # Prepare the response
     if filtered_sports:
-        print("Yes, here is a list of available sports:")
+        response += "Yes, here is a list of available sports:<br><br>"
         for sport in filtered_sports:
-            print(f"Sport: {sport['sport']}")
-            print(f"Gender: {sport['gender']}")
-            print(f"Description: {sport['description']}")
-            print(f"Captain: {sport['captain']}")
-            print(f"Contact: {sport['contact']}")
-            print()
+            response += f"Sport: {sport['sport']}<br>"
+            response += f"Gender: {sport['gender']}<br>"
+            response += f"Description: {sport['description']}<br>"
+            response += f"Captain: {sport['captain']}<br>"
+            response += f"Contact: {sport['contact']}<br><br>"
     else:
-        print("The sport you are searching for is not offered at the university. Please choose from the available "
-              "sports:")
+        response += ("The sport you are searching for is not offered at the university. Please choose from the "
+                     "available sports:<br><br>")
         for sport in sports:
             if gender == '' or sport['gender'] == gender:
-                print(f"Sport: {sport['sport']}")
-                print(f"Gender: {sport['gender']}")
-                print(f"Description: {sport['description']}")
-                print(f"Captain: {sport['captain']}")
-                print(f"Contact: {sport['contact']}")
-                print()
+                response += f"Sport: {sport['sport']}<br>"
+                response += f"Gender: {sport['gender']}<br>"
+                response += f"Description: {sport['description']}<br>"
+                response += f"Captain: {sport['captain']}<br>"
+                response += f"Contact: {sport['contact']}<br><br>"
+
+    return response

@@ -1,6 +1,7 @@
 import pandas as pd
 from difflib import SequenceMatcher
 
+
 def search_timetable_by_program(program, year):
     data = pd.read_csv('time table.csv')
     close_matches = []
@@ -55,17 +56,17 @@ def get_program_list():
 
 
 def handle_timetable():
-    print("Please select an option:")
-    print("1. Search for timetable by program")
-    print("2. Search for timetable by venue")
-    print("3. Search for timetable by lecturer")
-    print("4. Get program list")
-    print("Enter 'exit' to quit")
+    response = "Please select an option:\n"
+    response += "1. Search for timetable by program\n"
+    response += "2. Search for timetable by venue\n"
+    response += "3. Search for timetable by lecturer\n"
+    response += "4. Get program list\n"
+    response += "Enter 'exit' to quit\n"
 
     user_input = input("Your choice: ")
 
     if user_input.lower() == "exit":
-        return
+        return response
 
     if user_input == "1":
         program = input("Enter the program: ")
@@ -79,29 +80,30 @@ def handle_timetable():
             "6": 4.1
         }
 
-        print("Select a year:")
+        response += "Select a year:\n"
         for option, year in year_options.items():
-            print(f"{option}. {year}")
+            response += f"{option}. {year}\n"
 
         choice = input("Enter your choice: ")
 
         if choice in year_options:
             year = year_options[choice]
             timetable = search_timetable_by_program(str(program), year)  # Convert program to string
-            print(timetable)
+            response += str(timetable) + "\n"
         else:
-            print("Invalid choice. Please select a valid option.")
+            response += "Invalid choice. Please select a valid option.\n"
     elif user_input == "2":
         venue = input("Enter the venue: ")
         timetable = search_timetable_by_venue(venue)
-        print(timetable)
+        response += str(timetable) + "\n"
     elif user_input == "3":
         lecturer = input("Enter the lecturer: ")
         timetable = search_timetable_by_lecturer(lecturer)
-        print(timetable)
+        response += str(timetable) + "\n"
     elif user_input == "4":
         program_list = get_program_list()
-        print(program_list)
+        response += str(program_list) + "\n"
     else:
-        print("Invalid choice. Please enter a number between 1 and 4.")
+        response += "Invalid choice. Please enter a number between 1 and 4.\n"
 
+    return response
