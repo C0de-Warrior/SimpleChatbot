@@ -1,7 +1,7 @@
 import csv
 
 
-def handle_university_website(category):
+def handle_dh_website(category):
     response = ""
 
     # Read the websites.csv file
@@ -9,7 +9,7 @@ def handle_university_website(category):
         reader = csv.DictReader(file)
         websites = list(reader)
 
-    category = "university"
+    category = "food"
     # Filter websites based on the category variable
     filtered_websites = [website for website in websites if website['category'].lower() == category.lower()]
 

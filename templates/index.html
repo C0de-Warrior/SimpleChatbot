@@ -4,83 +4,98 @@
   <head>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <style>
+      /* * {
+  font-size: 2vw;
+  font-family: "Helvetica Neue", sans-serif;
+} */
+
+html {
+  --scrollbarBG: #fd9e9e;
+  --thumbBG: #90a4ae;
+}
+
       body {
-        font-family: monospace;
-        background-image: url('static/au smaller.png');
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position: center center;
+        background-color: white;
         height: 100vh;
         margin: 0;
       }
       h1 {
         color: black;
         display: inline-block;
-        font-size: 2em;
-        margin-left: 2px;
-        padding: 10px;
-        margin-bottom: 10px;
+        font-size: 4.5vw;
+        font-family: "Helvetica Neue", sans-serif;
+        padding-left: 2vw;
+        padding-bottom: 1vw;
+        padding-top: 1vw;
+        padding-bottom: 2vw;
+        position: relative;
+        bottom: 1vw;
       }
       #chatbox {
         margin-left: auto;
         margin-right: auto;
-        width: 40%;
+        width: 60%;
         margin-top: 60px;
-      }
-      #userInput {
-        margin-left: auto;
-        margin-right: auto;
-        width: 40%;
-        margin-top: 60px;
-        display: flex;
-        align-items: center;
       }
       #textInput {
-        width: 95%;
-        border: 3px solid red;
-        border-radius: 9999em;
-        border-bottom: 3px solid black;
-        font-family: monospace;
+        font-family: Arial, Helvetica, sans-serif;
         font-size: 17px;
-        padding: 5px;
+        min-width: min-content;
+        height: 3vw;
+        width: 40vw;
+        border-top: solid #000 0.1vw;;
+        border-right: solid #000 0.1vw;;
+        border-left: solid #000 0.1vw;
+        border-bottom: solid #000 0.1vw;
+        border-radius: 2vw 2vw 2vw 2vw;
       }
       #sendButton {
-        background-color: #8080ff;
+        background-color: black;
         color: white;
         border: none;
         padding: 10px;
         margin-left: 10px;
-        font-size: 17px;
+        font-size: 15px;
         cursor: pointer;
         border-radius: 50%;
       }
       .userText {
         color: black;
         font-family: monospace;
-        font-size: 17px;
+        font-size: 15px;
         text-align: right;
         line-height: 30px;
         margin-bottom: 10px;
       }
       .userText span {
-        background-color: #e699ff;
-        padding: 10px;
+        background-color: #e35353;
+        /* padding: 10px; */
         border-radius: 20px;
         display: inline-block;
+        padding: 1vw;
+        margin-top: 0.5vw;
+        margin-right: 0vw;
+        margin-left: 1vw;
+        margin-bottom: 0.5vw;
       }
       .botText {
         color: black;
         font-family: monospace;
-        font-size: 17px;
+        font-size: 15px;
         text-align: left;
         line-height: 30px;
         margin-bottom: 10px;
       }
       .botText span {
-        background-color: #ffdd99;
-        padding: 10px;
+        background-color:  #fd9e9e;
+        /* padding: 10px; */
         border-radius: 20px;
         display: inline-block;
+        padding: 1vw;
+        margin-top: 0.5vw;
+        margin-right: 1vw;
+        margin-left: 0vw;
+        margin-bottom: 0.5vw;
       }
       #tidbit {
         position: absolute;
@@ -88,74 +103,109 @@
         right: 0;
         width: 300px;
       }
-      .header {
-      margin-left: auto;
-        margin-right: auto;
-        width: 78%;
-        background-color: black;
+      .logo {
+        display: inline-block;
       }
-       .boxed {
+      .header {
+        height: 8vw;
+      }
+      .boxed {
+        width: 78%;
+        overflow-y: auto;
+        padding-left: 1in;
+      }
+      .container {
+        display: flex;
+        background-color: rgba(193, 0, 0, 0.95);
+        position: sticky;
+        top: 0;
+      }
+      .container1 {
+        display: flex;
+        flex-direction: column;
+      }
+      .container2 {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 4vw;
+        background-color: rgba(193, 0, 0, 0.95);
+        position: sticky;
+        bottom: 0;
+      }
+      .userInput {
+        display: flex;
+        position: relative;
+        left: 6vw;
+        top: 0.5vw;
+      }
+      #userInput {
+        width: 80%;
+      }
+      .container3 {
+        display: flex;
+        flex-direction: column;
+        background-color: white;
         margin-left: auto;
         margin-right: auto;
-        width: 78%;
+        width: 60%;
         margin-top: 60px;
-        border: 1px solid green;
-        overflow-y: auto;
-        max-height: 800px; /* Set a maximum height to enable scrolling within the container */
-      }
-      .box {
-        border: 2px solid red;
-        margin-bottom: 8px;
+        margin-bottom: 0;
+        border: 1px solid rgba(193, 0, 0, 0.95);
+        height: auto;
       }
     </style>
   </head>
   <body>
-
-    <div class="box"></div>
-    <div class="boxed">
-      <div class="header">
-        <h1>
-        Acacia Online
-      </h1>
+    <div class="container3">
+      <div class="container">
+        <div class="header">
+          <div class="logo">
+            <img src="{{ url_for('static', filename='logo.jpg')}}" alt="Logo" class="header" height="95vw" width="95vw" />
+          </div>
+          <h1>
+            Acacia Online
+          </h1>
         </div>
-      <div>
+      </div>
+      <div class="container1">
+        <div class="boxed">
         <div id="chatbox">
           <p class="botText">
             <span>Hi There! I'm Acacia. Feel free to ask me anything. If you aren't sure where to start just type - Help me Acacia and I will help you get started</span>
           </p>
         </div>
-        <div id="userInput">
-          <input id="textInput" type="text" name="msg" placeholder="Talk To Acacia..." />
-          <button id="sendButton">&#8594;</button>
-        </div>
       </div>
-      <script>
-        function getBotResponse() {
-          var rawText = $("#textInput").val();
-          var userHtml = '<p class="userText"><span>' + rawText + "</span></p>";
-          $("#textInput").val("");
-          $("#chatbox").append(userHtml);
-          document
-            .getElementById("userInput")
-            .scrollIntoView({ block: "start", behavior: "smooth" });
-          $.get("/get", { msg: rawText }).done(function(data) {
-  console.log("Server response:", data);  // Debug print statement
-  var botHtml = '<p class="botText"><span>' + data + "</span></p>";
-  $("#chatbox").append(botHtml);
-  document
-    .getElementById("userInput")
-    .scrollIntoView({ block: "start", behavior: "smooth" });
-});
-        }
-        $("#sendButton").click(function() {
-          getBotResponse();
-        });
-        $("#textInput").keypress(function(e) {
-          if (e.which == 13) {
-            getBotResponse();
-          }
-       });
-      </script>
     </div>
+    <div class="container2">
+      <div id="userInput" class="userInput">
+        <input id="textInput" type="text" name="msg" placeholder="  Talk To Acacia" />
+        <button id="sendButton">&#8594;</button>
+      </div>
+    </div>
+  </div>
+    <script>
+      function getBotResponse() {
+        var rawText = $("#textInput").val();
+        var userHtml = '<p class="userText"><span>' + rawText + "</span></p>";
+        $("#textInput").val("");
+       $("#chatbox").append(userHtml);
+        document.getElementById("userInput").scrollIntoView({ block: "start", behavior: "smooth" });
+        $.get("/get", { msg: rawText }).done(function (data) {
+          console.log("Server response:", data); // Debug print statement
+          var botHtml = '<p class="botText"><span>' + data + "</span></p>";
+          $("#chatbox").append(botHtml);
+          document.getElementById("userInput").scrollIntoView({ block: "start", behavior: "smooth" });
+        });
+      }
+      $("#sendButton").click(function () {
+        getBotResponse();
+      });
+      $("#textInput").keypress(function (e) {
+        if (e.which == 13) {
+          getBotResponse();
+        }
+      });
+    </script>
   </body>
 </html>

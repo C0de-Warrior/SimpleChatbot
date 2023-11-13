@@ -1,6 +1,6 @@
 import csv
 
-with open('admin.csv', 'r') as file:
+with open('help.csv', 'r') as file:
     reader = csv.DictReader(file)
     sports = list(reader)
 

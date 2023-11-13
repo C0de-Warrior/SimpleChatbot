@@ -1,7 +1,65 @@
-program,description,level
-computer science,computting ,bachelors
-computer science,computting ,masters
-software enginnering,computting ,bachelors
-software enginnering,computting ,masters
-computer information systems,computting and business,bachelors
-computer information systems,computting and business,masters
+program,department ,faculty 
+Bachelor of Science in Comuter Science (Hons),Computer Science and Information Systems,College of Engineering and Applied Sciences
+Master of Science in Computer Science,Computer Science and Information Systems,College of Engineering and Applied Sciences
+Bachelor of Science in Software Engineering (Hons),Computer Science and Information Systems,College of Engineering and Applied Sciences
+software enginnering,Computer Science and Information Systems,College of Engineering and Applied Sciences
+Bachelor of Science in Computer Information Systems (Hons),Computer Science and Information Systems,College of Engineering and Applied Sciences
+computer information systems,Computer Science and Information Systems,College of Engineering and Applied Sciences
+Bachelor of Science in Information Technology (Hons),Computer Science and Information Systems,College of Engineering and Applied Sciences
+Bachelor of Science in Artificial Intelligence (Hons),Computer Science and Information Systems,College of Engineering and Applied Sciences
+BSc Health Services Management,Public Health and Nursing,"College of Health, Agriculture and Natural Sciences"
+Master of Public Health,Public Health and Nursing,"College of Health, Agriculture and Natural Sciences"
+Post-Basic Bachelor of Science in Nursing (Hons),Public Health and Nursing,"College of Health, Agriculture and Natural Sciences"
+Bachelor of Medical Laboratory Sciences (Hons),Biomedical and Laboratory Sciences,"College of Health, Agriculture and Natural Sciences"
+Bachelor of Science in Agriculture and Natural Resources (Hons),Agricultural Sciences,"College of Health, Agriculture and Natural Sciences"
+Bachelor of Science in Agribusiness Management (Hons),Agricultural Sciences,"College of Health, Agriculture and Natural Sciences"
+Bachelor of Science in Agriculture and Community Development (Hons) ,Agricultural Sciences,"College of Health, Agriculture and Natural Sciences"
+Bachelor of Science in Food Processing and Value Addition (Hons),Agricultural Sciences,"College of Health, Agriculture and Natural Sciences"
+Master of Science in Crop Productions,Agricultural Sciences,"College of Health, Agriculture and Natural Sciences"
+Master of Science in Agribusiness,Agricultural Sciences,"College of Health, Agriculture and Natural Sciences"
+Bachelor of Science in Natural Resources Management (Hons),Environmental Studies and Natural Resources,"College of Health, Agriculture and Natural Sciences"
+Bachelor of Science in Environmental Studies and Natural Resource Management (Hons) ,Environmental Studies and Natural Resources,"College of Health, Agriculture and Natural Sciences"
+Bachelor of Science in Industrial Sociology and Labour Studies (Hons),Social Sciences,"College of Social Sciences, Theology, Humanities and Education"
+Bachelor of Social Science in Psychology (Hons) ,Social Sciences,"College of Social Sciences, Theology, Humanities and Education"
+Bachelor of Science in Counselling (Hons),Social Sciences,"College of Social Sciences, Theology, Humanities and Education"
+Bachelor of Science in Sociology (Hons),Social Sciences,"College of Social Sciences, Theology, Humanities and Education"
+Bachelor of Science in Human Resource Management (Hons),Social Sciences,"College of Social Sciences, Theology, Humanities and Education"
+Master of Science in Child Rights and Childhood Studies,Social Sciences,"College of Social Sciences, Theology, Humanities and Education"
+Master of Science in Organisational Psychology ,Social Sciences,"College of Social Sciences, Theology, Humanities and Education"
+Master of Social Science in Development Studies ,Social Sciences,"College of Social Sciences, Theology, Humanities and Education"
+Doctor of Philosophy in Child Rights and Childhood Studies,Social Sciences,"College of Social Sciences, Theology, Humanities and Education"
+Bachelor of Science in Social Work (Hons),Social Work,"College of Social Sciences, Theology, Humanities and Education"
+Bachelor of Divinity (Hons),Institute of Theology and Religious Studies,"College of Social Sciences, Theology, Humanities and Education"
+Bachelor of Arts in Religion and Community Health (Hons) ,Institute of Theology and Religious Studies,"College of Social Sciences, Theology, Humanities and Education"
+Master of Arts in Religious Studies ,Institute of Theology and Religious Studies,"College of Social Sciences, Theology, Humanities and Education"
+Master of Theological Studies ,Institute of Theology and Religious Studies,"College of Social Sciences, Theology, Humanities and Education"
+Bachelor of Science in International Relations (Hons),Humanities,"College of Social Sciences, Theology, Humanities and Education"
+Bachelor of Arts in English and Communication Studies (Hons),Humanities,"College of Social Sciences, Theology, Humanities and Education"
+Bachelor of Arts in Translation and Interpretation in Languages (Hons),Humanities,"College of Social Sciences, Theology, Humanities and Education"
+Bachelor of Arts in Gender and Cultural Studies (Hons),Humanities,"College of Social Sciences, Theology, Humanities and Education"
+"Bachelor of Arts with Education specialising in English, Geography, History, Religious Studies and Music (Hons)",Education,"College of Social Sciences, Theology, Humanities and Education"
+Bachelor of Science with Education in Business/Commerce (Hons),Education,"College of Social Sciences, Theology, Humanities and Education"
+Bachelor of Science in Computer Studies with Education,Education,"College of Social Sciences, Theology, Humanities and Education"
+Bachelor of Science in Agriculture with Education,Education,"College of Social Sciences, Theology, Humanities and Education"
+Bachelor of Education in Early Childhood Education (Hons),Education,"College of Social Sciences, Theology, Humanities and Education"
+Bachelor of Education in Mathematics (Hons),Education,"College of Social Sciences, Theology, Humanities and Education"
+Post Graduate Diploma in Education,Education,"College of Social Sciences, Theology, Humanities and Education"
+Master of Education in Educational Technology Studies,Education,"College of Social Sciences, Theology, Humanities and Education"
+"Master of Education in Educational Leadership, Management and Development",Education,"College of Social Sciences, Theology, Humanities and Education"
+Bachelor of Accounting (Hons),Business Sciences,"College of Business, Peace, Leadership and Governance"
+Bachelor of Science in Economics ,Business Sciences,"College of Business, Peace, Leadership and Governance"
+Bachelor of Business Studies in Management (Hons),Business Sciences,"College of Business, Peace, Leadership and Governance"
+Bachelor of Business Studies in Marketing (Hons) ,Business Sciences,"College of Business, Peace, Leadership and Governance"
+Bachelor of Science in Public Administration and Management (Hons),Business Sciences,"College of Business, Peace, Leadership and Governance"
+Executive Master of Business Administration,Business Sciences,"College of Business, Peace, Leadership and Governance"
+Master in Public Sector Management,Business Sciences,"College of Business, Peace, Leadership and Governance"
+"Master of Science in Entrepreneurship, nnovation and Creativity",Business Sciences,"College of Business, Peace, Leadership and Governance"
+Master of Science in Applied Accounting ,Business Sciences,"College of Business, Peace, Leadership and Governance"
+Master of Public Policy and Governance,"Institute of Peace, Leadership and Governance","College of Business, Peace, Leadership and Governance"
+"Master in Human Rights, Peace and Developmement","Institute of Peace, Leadership and Governance","College of Business, Peace, Leadership and Governance"
+"Master of Science in Migration, Citizenship and Refugee Protection","Institute of Peace, Leadership and Governance","College of Business, Peace, Leadership and Governance"
+Master of Science in International Relations and Diplomacy ,"Institute of Peace, Leadership and Governance","College of Business, Peace, Leadership and Governance"
+"Master in Peace, Leadership and Governance ","Institute of Peace, Leadership and Governance","College of Business, Peace, Leadership and Governance"
+Master of Science in Negotiation and Mediation,"Institute of Peace, Leadership and Governance","College of Business, Peace, Leadership and Governance"
+Doctor of Philosophy in Inteellectual Property,"Institute of Peace, Leadership and Governance","College of Business, Peace, Leadership and Governance"
+Bachelor of Laws (Hons),School of Law,School of Law
